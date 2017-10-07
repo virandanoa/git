@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Adi Prasetiyo</title>
-    <link rel="icon" href="img/LOGO.png">
+    <link rel="icon" href="img/LOGO.png"
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link type="text/css"  rel="stylesheet" href="css/bootstrap.css">
     <link type="text/css" rel="stylesheet" href="css/font-awesome.min.css">
